@@ -1,0 +1,84 @@
+[2022-09-06 22:11:41] DEBUG	CvveMembershipApp:__init__:61 OS in my system : win32
+[2022-09-06 22:11:41] DEBUG	CvveMembershipApp:__init__:63 [Monitor(x=0, y=0, width=1792, height=1120, width_mm=None, height_mm=None, name=None, is_primary=True)]
+[2022-09-06 22:11:41] DEBUG	WinLogin:__init__:19 start
+[2022-09-06 22:11:41] DEBUG	WinTopBtn:__init__:14 start
+[2022-09-06 22:11:41] DEBUG	WinManagerError:__init__:14 start
+[2022-09-06 22:11:41] DEBUG	WinManager:top_menu:32 start
+[2022-09-06 22:11:41] DEBUG	WinManager:left_menu:57 start
+[2022-09-06 22:11:41] DEBUG	WinManagerPoint:__init__:14 start
+[2022-09-06 22:11:41] DEBUG	WinManager:top_menu:32 start
+[2022-09-06 22:11:41] DEBUG	WinManager:left_menu:57 start
+[2022-09-06 22:11:41] DEBUG	WinManagerPoint:bottom_menu:124 start
+[2022-09-06 22:11:41] DEBUG	WinManagerPoint:notice:35 start
+[2022-09-06 22:11:41] DEBUG	WinManagerPoint:searchCustomer:55 start
+[2022-09-06 22:11:41] DEBUG	WinManagerPointUser:__init__:15 start
+[2022-09-06 22:11:41] DEBUG	WinManager:top_menu:32 start
+[2022-09-06 22:11:41] DEBUG	WinManager:left_menu:57 start
+[2022-09-06 22:11:41] DEBUG	WinManagerPointUser:CustomerInfo:177 start
+[2022-09-06 22:11:41] DEBUG	WinManagerPointUser:show_earn_ui:227 start
+[2022-09-06 22:11:41] DEBUG	WinManagerPointUser:clicked_btn_card:450 start
+[2022-09-06 22:11:41] DEBUG	WinManagerPointUser:hide_use_ui:294 start
+[2022-09-06 22:11:41] DEBUG	WinManagerPointUser:hide_history_ui:404 start
+[2022-09-06 22:11:41] DEBUG	WinManagerPointSetting:__init__:16 start
+[2022-09-06 22:11:41] DEBUG	WinManager:top_menu:32 start
+[2022-09-06 22:11:41] DEBUG	WinManager:left_menu:57 start
+[2022-09-06 22:11:41] DEBUG	WinManagerPointSetting:setting:33 start
+[2022-09-06 22:11:41] DEBUG	WinManagerPointHistory:__init__:14 start
+[2022-09-06 22:11:41] DEBUG	WinManager:top_menu:32 start
+[2022-09-06 22:11:41] DEBUG	WinManager:left_menu:57 start
+[2022-09-06 22:11:42] DEBUG	WinManagerPrepaid:__init__:14 start
+[2022-09-06 22:11:42] DEBUG	WinManager:top_menu:32 start
+[2022-09-06 22:11:42] DEBUG	WinManager:left_menu:57 start
+[2022-09-06 22:11:42] DEBUG	WinManagerPrepaid:prepaid:33 start
+[2022-09-06 22:11:42] DEBUG	WinCustomer:__init__:14 start
+[2022-09-06 22:11:42] DEBUG	WinCustomer:__init__:55 img_cvve_cust_left: ./images/cvve_cust_left_846.png
+[2022-09-06 22:11:42] DEBUG	WinCustomer:show_cust_input:89 start
+[2022-09-06 22:11:42] DEBUG	CvveMembershipApp:checkUpgrade:230 start
+[2022-09-06 22:11:42] INFO	CvveMembershipApp:checkUpgrade:238 v1.0.1 vs v1.0.0
+[2022-09-06 22:11:42] INFO	CvveMembershipApp:checkUpgrade:244 신규버전 업그레이드
+[2022-09-06 22:11:45] DEBUG	CvveMembershipApp:apprestart:275 argv was ['C:\\cvve-membership-pos\\dist\\CvveMembershipApp\\CvveMembershipApp.exe']
+[2022-09-06 22:11:45] DEBUG	CvveMembershipApp:apprestart:276 sys.executable was C:\cvve-membership-pos\dist\CvveMembershipApp\CvveMembershipApp.exe
+[2022-09-06 22:11:45] DEBUG	CvveMembershipApp:apprestart:277 restart now
+[2022-09-06 22:11:49] DEBUG	CvveMembershipApp:__init__:61 OS in my system : win32
+[2022-09-06 22:11:49] DEBUG	CvveMembershipApp:__init__:63 [Monitor(x=0, y=0, width=1792, height=1120, width_mm=None, height_mm=None, name=None, is_primary=True)]
+[2022-09-06 22:11:49] DEBUG	WinLogin:__init__:19 start
+[2022-09-06 22:11:49] DEBUG	WinTopBtn:__init__:14 start
+[2022-09-06 22:11:49] DEBUG	WinManagerError:__init__:14 start
+[2022-09-06 22:11:49] DEBUG	WinManager:top_menu:32 start
+[2022-09-06 22:11:49] DEBUG	WinManager:left_menu:57 start
+[2022-09-06 22:11:49] DEBUG	WinManagerPoint:__init__:14 start
+[2022-09-06 22:11:49] DEBUG	WinManager:top_menu:32 start
+[2022-09-06 22:11:49] DEBUG	WinManager:left_menu:57 start
+[2022-09-06 22:11:49] DEBUG	WinManagerPoint:bottom_menu:124 start
+[2022-09-06 22:11:49] DEBUG	WinManagerPoint:notice:35 start
+[2022-09-06 22:11:49] DEBUG	WinManagerPoint:searchCustomer:55 start
+[2022-09-06 22:11:49] DEBUG	WinManagerPointUser:__init__:15 start
+[2022-09-06 22:11:49] DEBUG	WinManager:top_menu:32 start
+[2022-09-06 22:11:49] DEBUG	WinManager:left_menu:57 start
+[2022-09-06 22:11:49] DEBUG	WinManagerPointUser:CustomerInfo:177 start
+[2022-09-06 22:11:49] DEBUG	WinManagerPointUser:show_earn_ui:227 start
+[2022-09-06 22:11:49] DEBUG	WinManagerPointUser:clicked_btn_card:450 start
+[2022-09-06 22:11:49] DEBUG	WinManagerPointUser:hide_use_ui:294 start
+[2022-09-06 22:11:49] DEBUG	WinManagerPointUser:hide_history_ui:404 start
+[2022-09-06 22:11:49] DEBUG	WinManagerPointSetting:__init__:16 start
+[2022-09-06 22:11:49] DEBUG	WinManager:top_menu:32 start
+[2022-09-06 22:11:49] DEBUG	WinManager:left_menu:57 start
+[2022-09-06 22:11:49] DEBUG	WinManagerPointSetting:setting:33 start
+[2022-09-06 22:11:49] DEBUG	WinManagerPointHistory:__init__:14 start
+[2022-09-06 22:11:49] DEBUG	WinManager:top_menu:32 start
+[2022-09-06 22:11:49] DEBUG	WinManager:left_menu:57 start
+[2022-09-06 22:11:49] DEBUG	WinManagerPrepaid:__init__:14 start
+[2022-09-06 22:11:49] DEBUG	WinManager:top_menu:32 start
+[2022-09-06 22:11:49] DEBUG	WinManager:left_menu:57 start
+[2022-09-06 22:11:50] DEBUG	WinManagerPrepaid:prepaid:33 start
+[2022-09-06 22:11:50] DEBUG	WinCustomer:__init__:14 start
+[2022-09-06 22:11:50] DEBUG	WinCustomer:__init__:55 img_cvve_cust_left: ./images/cvve_cust_left_846.png
+[2022-09-06 22:11:50] DEBUG	WinCustomer:show_cust_input:89 start
+[2022-09-06 22:11:50] DEBUG	CvveMembershipApp:checkUpgrade:230 start
+[2022-09-06 22:11:50] INFO	CvveMembershipApp:checkUpgrade:238 v1.0.1 vs v1.0.1
+[2022-09-06 22:11:50] INFO	CvveMembershipApp:checkUpgrade:241 버전 변화없음...pass
+[2022-09-06 22:11:50] DEBUG	CvveMembershipApp:showWinLogin:282 start
+[2022-09-06 22:11:50] DEBUG	CvveMembershipApp:showWinLogin:285 end
+[2022-09-06 22:11:50] DEBUG	CvveMembershipApp:logThread:424 start
+[2022-09-06 22:11:50] DEBUG	CvveMembershipApp:logThread:435 logfilename: C:\_OKPOS\CFG\LOG\TraceLogFile_20220906_01.log
+[2022-09-06 22:11:53] DEBUG	WinLogin:on_closing:84 start
